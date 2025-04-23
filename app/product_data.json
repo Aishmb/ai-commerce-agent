@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop A",
+        "description": "A high-performance laptop suitable for gaming and work.",
+        "image_url": "laptop.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Shoes B",
+        "description": "Comfortable running shoes with great cushioning.",
+        "image_url": "shoes.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Smartphone C",
+        "description": "Latest model with advanced features and sleek design.",
+        "image_url": "smartphone.jpg"
+    }
+]
