@@ -23,7 +23,7 @@ Upload an image, and the agent will return products similar to the uploaded imag
 1. **Clone the Repository**  
    Clone the repository to your local machine and navigate to the project directory:
    ```bash
-   git clone https://github.com/your-repo/ai-commerce-agent.git
+   git clone https://github.com/Aishmb/ai-commerce-agent.git
    cd ai-commerce-agent
    ```
 
